@@ -26,10 +26,12 @@ I focus on clear, minimal solutions that save time and reduce friction — wheth
 
 ## 📁 Projects
 
-- [📊 Order Tracker (Google Sheets)](https://bit.ly/christian-remotetech)  
-- [📂 CRM Cleanup: Raw → Structured](https://bit.ly/christian-remotetech)  
-- [🗃 Report File Renamer Script (Python)](https://bit.ly/christian-remotetech)  
-- More projects coming soon...
+- [📊 Google Sheets Order Tracker](https://github.com/christianhcodes/google-sheets-order-tracker)  
+  → Automates totals, cleans data, and outputs summary CSVs  
+- [📂 CRM Cleanup Script](https://github.com/christianhcodes/crm-cleanup-script)  
+  → Parses raw client CSVs, standardizes formatting, removes duplicates  
+- [🗃 Report File Renamer](https://github.com/christianhcodes/report-file-renamer)  
+  → Renames messy reports using date stamp and type for clarity  
 
 ---
 
